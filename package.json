@@ -1,7 +1,7 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "Aprendiendo API-REST con node y express + PostgreSQL",
+  "description": "Learning REST API with node and express",
   "main": "index.js",
   "type": "module",
   "scripts": {
