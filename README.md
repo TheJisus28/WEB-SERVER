@@ -10,7 +10,7 @@ Before getting started, ensure you have Node.js installed on your system.
 
 1. Clone this repository to your local machine.
 2. Run `npm install` to install the dependencies.
-3. Run `node app.js` to start the server.
+3. Run `npm run dev` to start the server.
 
 ## Usage
 
