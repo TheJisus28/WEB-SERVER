@@ -1,7 +1,7 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "Learning REST API with node and express",
+  "description": "Learning REST API with node and express.",
   "main": "index.js",
   "type": "module",
   "scripts": {
